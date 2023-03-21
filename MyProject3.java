@@ -10,11 +10,8 @@ package myproject3;
  */
 public class MyProject3 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello world!");
     }
     
 }
